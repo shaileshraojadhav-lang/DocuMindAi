@@ -1,0 +1,12 @@
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\bin\Release\net9.0\win-x64\DocuMind.Shared.deps.json
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\bin\Release\net9.0\win-x64\DocuMind.Shared.dll
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\bin\Release\net9.0\win-x64\DocuMind.Shared.pdb
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\DocuMind.Shared.csproj.AssemblyReference.cache
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\DocuMind.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\DocuMind.Shared.AssemblyInfoInputs.cache
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\DocuMind.Shared.AssemblyInfo.cs
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\DocuMind.Shared.csproj.CoreCompileInputs.cache
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\DocuMind.Shared.dll
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\refint\DocuMind.Shared.dll
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\DocuMind.Shared.pdb
+D:\Project\DocuMind.IngestFunction\DocuMind.Shared\obj\Release\net9.0\win-x64\ref\DocuMind.Shared.dll

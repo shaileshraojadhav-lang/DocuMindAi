@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DocuMind_IngestFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7171",
+      "launchBrowser": false
+    }
+  }
+}
